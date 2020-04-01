@@ -10,16 +10,16 @@ Jupyter Notebook that uses Pandas for statistical calculations and Matplotlib li
 
 ## Graphs
 ### Figure 1. Mean Tumor Volume
-![figure 1 - Mean Tumor Volume](images/fig1_MeanTumorVolume.png)
+![figure 1 - Mean Tumor Volume](Images/fig1_MeanTumorVolume.png)
 
 ### Figure 2. Metastatic Sites
-![figure 2 - Metastatic Sites](images/fig2-MetastaticSites.png)
+![figure 2 - Metastatic Sites](Images/fig2-MetastaticSites.png)
 
 ### Figure 3. Mouse Survival Rates
-![figure 3 - Mouse Survival Rate](images/fig3-MouseSurvivalRate.png)
+![figure 3 - Mouse Survival Rate](Images/fig3-MouseSurvivalRate.png)
 
 ### Figure 4. Tumor % Change
-![figure 4 - Tumor % Change](images/fig4-TumorPctChange.png)
+![figure 4 - Tumor % Change](Images/fig4-TumorPctChange.png)
 
 ## Observations
 *1 Based on the tumor volume over time data/figure, it appears that two drugs were successdful at reducing tumors, Capomulin and Ramicane

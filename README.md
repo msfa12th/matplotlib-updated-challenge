@@ -12,8 +12,23 @@
 <a href="https://github.com/msfa12th/matplotlib-updated-challenge"><img alt="GitHub license" src="https://img.shields.io/github/license/msfa12th/matplotlib-updated-challenge?color=purple"></a>
 
 ## Summary
-Jupyter Notebook that uses Pandas and Matplotlib library to create scatter plots and bar graphs to show how four cancer treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
+Jupyter Notebook that uses Pandas for statistical calculations and Matplotlib library to create scatter plots and bar graphs to show how four cancer treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-## Graph Output
-![webpage output top](images/marsWebPart1.png)
-![webpage output bottom](images/marsWebPart2.png)
+
+## Graphs
+### Figure 1. Mean Tumor Volume
+![figure 1 - Mean Tumor Volume](images/fig1_MeanTumorVolume.png)
+
+### Figure 2. Metastatic Sites
+![figure 2 - Metastatic Sites](images/fig2-MetastaticSites.png)
+
+### Figure 3. Mouse Survival Rates
+![figure 3 - Mouse Survival Rate](images/fig3-MouseSurvivalRate.png)
+
+### Figure 4. Tumor % Change
+![figure 4 - Tumor % Change](images/fig4-TumorPctChange.png)
+
+## Observations
+*1 Based on the tumor volume over time data/figure, it appears that two drugs were successdful at reducing tumors, Capomulin and Ramicane
+*2 Based on the mestatic site data, # of mestatic sites increased regardless of drug used
+*3 Based on Mouse count, highest survival rate when using two drugs Propriva and Infubinol
